@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: page 3
+title: Domestic Geese
 ---
 
 this is page 3
