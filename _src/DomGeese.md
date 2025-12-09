@@ -6,20 +6,25 @@ title: Domestic Geese
 <div class="row">
 <div class="geese-info">
 
-## fun facts
+## Fun Facts
 
-1. Having tomia on their beak and tongue helps them to rip and pull roots, stems, grasses and aquatic plants from the ground.
-2. Ducks, geese and swans (Anatidae) all have a similar type of tomia which helps with holding and ripping vegetation.”
-3. lele
+1. Domestic geese can't fly due to being bred for a more upright stance and heavier body weight, but a goose can easily break your nose with one well-placed flap of its wings.
+
+
+2. Geese who have been separated for even a short period of time will greet each other  (and their humans) by honking and stretching out their neck or flapping their wings.
+
+
 
 </div>
 <div class="geese-images">
  
  ## Images
 
-![One Canadian goose running with its wings flared.](/images/DomGoose2.jpg)
+![One white Domestic Goose looking right with its beak open.](/images/DomGoose2.jpg)
 
-![3 Domestic Geese frolicing.](/images/DomGoose3.jpg)
+![One tan Domestic Goose lookin left with its beak open.](/images/DomGoose3.jpg)
+
+More Info [Fresh Eggs Daily](https://www.fresheggsdaily.blog/2019/10/12-fun-facts-about-pet-geese.html)
 
 </div>
 </div>

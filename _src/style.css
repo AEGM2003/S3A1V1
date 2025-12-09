@@ -1,12 +1,30 @@
+:root {
+    --DarkBlue: #93AECC;
+    --LightBlue: #BFD5EA;
+    --GrayBlue: #B7C2D4;
+    --Gray: #DDD5D6;
+    --Pink: #EAC6C2;
+    --RegularText: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    --Titles: Georgia, 'Times New Roman', Times, serif;
+}
 body {
-    margin: 6vw 20vw;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 1vw 15vw;
+    font-family: var(--RegularText);
+    background-color: var(--LightBlue);
+    h1, h2, h3{
+        font-family: var(--Titles);
+    }
 }
 main {
     margin: 3vw 20vw 6vw;
 }
 .hero {
     margin: 3vw 20vw 6vw;
+}
+header {
+    padding: 1.5vw 20vw;
+    background-color: var(--Pink);
+    margin: 0;
 }
 nav ul {
     display: flex;
